@@ -1,0 +1,9 @@
+{
+  "name": "empty-grunt-example",
+  "version": "0.0.1",
+  "description": "Ejemplo de grunt vacío",
+  "author": "Alejandro Sevilla",
+  "devDependencies": {
+	"grunt": "~0.4.4"
+  }
+}

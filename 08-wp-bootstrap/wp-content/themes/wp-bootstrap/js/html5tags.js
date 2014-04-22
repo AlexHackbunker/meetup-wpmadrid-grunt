@@ -1,0 +1,13 @@
+  document.createElement("nav");
+  document.createElement("header");
+  document.createElement("footer");
+  document.createElement("section");
+  document.createElement("article");
+  document.createElement("aside");
+  document.createElement("hgroup");
+  document.createElement("mark");
+  document.createElement("figure");
+  document.createElement("figcaption");
+  document.execCommand("BackgroundImageCache", false, true);
+  var d = document.documentElement;
+      d.className = d.className + " ie8";
